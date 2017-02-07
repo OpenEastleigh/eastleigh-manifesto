@@ -1,0 +1,21 @@
+name: OpenPolitics Template
+
+# Enter the URL of your votebot here. No trailing slash please!
+# It will be something like https://my-votebot.herokuapp.com
+votebot_url: 
+
+# Don't worry about the rest of this for now. Once you get into customising
+# the site a bit more, look at https://jekyllrb.com/ for an introduction.
+
+exclude: ["vendor"]
+
+markdown: kramdown
+kramdown:
+  auto_ids: true
+
+defaults:
+-
+  scope:
+    path: ""
+  values:
+    layout: "root"

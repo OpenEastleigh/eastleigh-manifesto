@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{site.name}}{% if page.title %}: {{page.title}}{% endif %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <style>
+      body {
+        /* take account of the floating navbar */
+        padding-top: 50px;
+      }
+    </style>
+  </head>
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="{{site.baseurl}}">
+            {{site.name}}
+          </a>
+          <ul class="nav navbar-nav">
+            <li><a href="{{site.votebot_url}}">View proposals</a></li>
+          </ul>
+        </div>
+        <div>
+          <a href="{{site.votebot_url}}/edit/master/{{page.path}}" class='btn btn-primary navbar-btn pull-right'>
+            Suggest a change
+            <i class="fa fa-pencil"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <h1>{{page.title}}</h1>
+      <div>
+        {{content}}
+      </div>
+    </div>
+
+    <div class="container">
+      <footer>
+        <hr/>
+        <a href="{{site.baseurl}}contributing.html">contributing</a> |
+        <a href="{{site.baseurl}}license.html">license</a> |
+        code by <a href="https://openpolitics.org.uk">openpolitics</a>
+      </footer>
+    </div>
+
+  </body>
+</html>
