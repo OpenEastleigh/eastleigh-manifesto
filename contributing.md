@@ -2,8 +2,6 @@
 title: How to contribute
 ---
 
-# How to contribute
-
 This project is an open collaborative space which means *anyone* can get involved. This is a local political manifesto for Eastleigh, but you don't need to be a member of a party, of voting age, or even live in Eastleigh to contribute. Good ideas can come from anywhere!
 
 ## The Rules
