@@ -1,6 +1,5 @@
 ---
 title: How to contribute
-layout: manifesto_page
 ---
 
 # How to contribute
