@@ -19,14 +19,9 @@ This project is an open collaborative space which means *anyone* can get involve
 
 ## Tips
 
-{::options parse_block_html="true" /}
-<div class='well'>
-
 * Make your proposals small, self-contained, and simple. Large changes will take a lot longer to get agreed upon and merged.
 * Proposals don't need to be fully finished or hugely detailed. It's better to make small iterative improvements, as it keeps things moving faster.
 * Keep your proposals positive. New ideas are better than opposing existing policies.
-
-</div>
 
 ## Code of Conduct
 
