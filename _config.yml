@@ -12,6 +12,7 @@ exclude: ["vendor"]
 markdown: kramdown
 kramdown:
   auto_ids: true
+baseurl: "/"
 
 defaults:
 -
