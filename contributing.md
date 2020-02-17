@@ -4,6 +4,10 @@ title: How to contribute
 
 This project is an open collaborative space which means *anyone* can get involved. This is a local political manifesto for Eastleigh, but you don't need to be a member of a party, of voting age, or even live in Eastleigh to contribute. Good ideas can come from anywhere!
 
+* Anyone can edit the manifesto.
+* Once a suggestion is made, project contributors vote on whether or not it’s accepted. Click “View proposals” above to see the current proposals.
+* Once a proposal is accepted, the author gets to vote on future proposals.
+
 ## Getting Started
 
 {::options parse_block_html="true" /}
