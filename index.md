@@ -11,4 +11,4 @@ If you'd like to help write the manifesto, read the [contributor guide](contribu
 
 </div>
 
-**Start here!**
+**Note:** still setting things up. Come back soon!
