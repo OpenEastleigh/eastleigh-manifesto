@@ -2,7 +2,7 @@ name: The Eastleigh Manifesto
 
 # Enter the URL of your votebot here. No trailing slash please!
 # It will be something like https://my-votebot.herokuapp.com
-votebot_url: https://eastleigh-groupthink-app.herokuapp.com
+votebot_url: https://groupthink.openeastleigh.uk
 
 # Don't worry about the rest of this for now. Once you get into customising
 # the site a bit more, look at https://jekyllrb.com/ for an introduction.
