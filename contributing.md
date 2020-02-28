@@ -20,7 +20,7 @@ This project is an open collaborative space which means *anyone* can get involve
 
 ### Code of Conduct
 
-This project has a [code of conduct](CODE_OF_CONDUCT.html). In the interest of fostering an open and welcoming environment, we as [contributors](https://eastleigh-groupthink-app.herokuapp.com/users) and [maintainers](maintainers.html) pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation. Read the [complete code of conduct](CODE_OF_CONDUCT.html) for the full policy, and to see what is expected of you as a contributor.
+This project has a [code of conduct](CODE_OF_CONDUCT.html). In the interest of fostering an open and welcoming environment, we as [contributors](https://groupthink.openeastleigh.uk/users) and [maintainers](maintainers.html) pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation. Read the [complete code of conduct](CODE_OF_CONDUCT.html) for the full policy, and to see what is expected of you as a contributor.
 
 
 ## The Rules
@@ -39,9 +39,9 @@ This project has a [code of conduct](CODE_OF_CONDUCT.html). In the interest of f
 2. Log in with a [GitHub account](https://github.com/signup/free); if you don't have one, you can make an account for free.
 3. Make your change in the editor. Text is formatted with Markdown; you'll find instructions at the side of the editor window.
 4. If this is your first edit, please agree to the [Contributor License Agreement](https://www.clahub.com/agreements/OpenEastleighPolitics/eastleigh-manifesto) to state that your submission is in the public domain.
-5. After you've saved your changes, your proposal will be added to the [proposal list](https://eastleigh-groupthink-app.herokuapp.com/proposals). There will then be a vote, and possibly debate, amongst contributors on whether to adopt the proposal. You can change the proposal in response to the discussion, if you want to.
+5. After you've saved your changes, your proposal will be added to the [proposal list](https://groupthink.openeastleigh.uk/proposals). There will then be a vote, and possibly debate, amongst contributors on whether to adopt the proposal. You can change the proposal in response to the discussion, if you want to.
 
-If you want to contribute but aren't sure what you can start with, you can check out the [ideas list](https://eastleigh-groupthink-app.herokuapp.com/ideas) for inspiration.
+If you want to contribute but aren't sure what you can start with, you can check out the [ideas list](https://groupthink.openeastleigh.uk/ideas) for inspiration.
 
 ## Voting
 
@@ -49,7 +49,7 @@ We use a consensus voting system, where a change is accepted if it reaches a cer
 
 People who have contributed to the manifesto are eligible to vote on proposals. If you get a proposal accepted, you will get a vote. It doesn't have to be a big change, as long as you contribute, you're in!
 
-The simplest way to vote is using the [voting interface](https://eastleigh-groupthink-app.herokuapp.com/proposals). Click on the proposal details to see the change, comment, or cast a vote.
+The simplest way to vote is using the [voting interface](https://groupthink.openeastleigh.uk/proposals). Click on the proposal details to see the change, comment, or cast a vote.
 
 Four vote types are available:
 
