@@ -14,7 +14,7 @@ This project is an open collaborative space which means *anyone* can get involve
 <div class='well'>
 
 * You'll need a [GitHub account](https://github.com/signup/free) before you can contribute to the manifesto; if you don't have one, you can make an account for free. GitHub is the system that stores all the changes made to the manifesto. Your account doesn't have to be linked to your real name or identity.
-* The manifesto is public domain. Before you make a contribution, please sign the [Contributor License Agreement](https://www.clahub.com/agreements/OpenEastleighPolitics/eastleigh-manifesto). See [the full license](license.html) for details.
+* The manifesto is public domain. Before you make a contribution, please sign the [Contributor License Agreement](https://www.clahub.com/agreements/OpenEastleigh/eastleigh-manifesto). See [the full license](license.html) for details.
 
 </div>
 
@@ -38,7 +38,7 @@ This project has a [code of conduct](CODE_OF_CONDUCT.html). In the interest of f
 1. Read the manifesto, and find the page you want to edit. Then click the `Suggest a change` button at the top right.
 2. Log in with a [GitHub account](https://github.com/signup/free); if you don't have one, you can make an account for free.
 3. Make your change in the editor. Text is formatted with Markdown; you'll find instructions at the side of the editor window.
-4. If this is your first edit, please agree to the [Contributor License Agreement](https://www.clahub.com/agreements/OpenEastleighPolitics/eastleigh-manifesto) to state that your submission is in the public domain.
+4. If this is your first edit, please agree to the [Contributor License Agreement](https://www.clahub.com/agreements/OpenEastleigh/eastleigh-manifesto) to state that your submission is in the public domain.
 5. After you've saved your changes, your proposal will be added to the [proposal list](https://groupthink.openeastleigh.uk/proposals). There will then be a vote, and possibly debate, amongst contributors on whether to adopt the proposal. You can change the proposal in response to the discussion, if you want to.
 
 If you want to contribute but aren't sure what you can start with, you can check out the [ideas list](https://groupthink.openeastleigh.uk/ideas) for inspiration.
