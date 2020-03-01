@@ -12,3 +12,6 @@ If you'd like to help write the manifesto, read the [contributor guide](contribu
 </div>
 
 **Note:** hopefully everything is now working well enough for early adopters to make a start writing a manifesto, although there are still likely to be some rough edges! If you find any problems, or if things don't make sense, [please open an issue](https://github.com/OpenEastleighPolitics/eastleigh-manifesto/issues/new?labels=bug).
+
+# Rename Airport
+Rename Southampton Airport to Matt Le Tissier International Airport in honour of the former Saints player.
