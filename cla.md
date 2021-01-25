@@ -1,5 +1,5 @@
 ---
-title: Contributors License Agreement
+title: Contributor License Agreement
 ---
 
 When contibuting to The Eastleigh Manifesto you must agree to the following license. 
@@ -9,3 +9,9 @@ When contibuting to The Eastleigh Manifesto you must agree to the following lice
 
   <p>I agree that anyone can copy, modify, distribute and perform the work, even for comercial purposes, all without asking permission.</p>
 </div>
+
+To sign the Contributor License Agreement, please copy the following text into your proposal description, or a comment on you proposal:
+
+```
+I have read the CLA Document and I hereby sign the CLA
+```
