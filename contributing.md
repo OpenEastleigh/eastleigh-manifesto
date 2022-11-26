@@ -2,6 +2,13 @@
 title: How to contribute
 ---
 
+{::options parse_block_html="true" /}
+<div class='well'>
+
+The Eastleigh Manifesto is currently offline. Hopefully it will be back one day but if you have any ideas before then, you can still [open an issue on GitHub](https://github.com/OpenEastleighPolitics/eastleigh-manifesto/issues/new).
+
+</div>
+
 This project is an open collaborative space which means *anyone* can get involved. This is a local political manifesto for Eastleigh, but you don't need to be a member of a party, of voting age, or even live in Eastleigh to contribute. Good ideas can come from anywhere!
 
 * Anyone can edit the manifesto.

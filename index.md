@@ -4,15 +4,14 @@ title: Welcome to The Eastleigh Manifesto!
 
 {::options parse_block_html="true" /}
 <div class='well'>
+
+The Eastleigh Manifesto is currently offline. Hopefully it will be back one day but if you have any ideas before then, you can still [open an issue on GitHub](https://github.com/OpenEastleighPolitics/eastleigh-manifesto/issues/new).
+
+</div>
   
 This manifesto is a collaborative effort to create open, positive, party neutral, policies for Eastleigh. **Anyone can edit the manifesto!**
 
 If you'd like to help write the manifesto, read the [contributor guide](contributing.html) for more details on how to get started.
-
-</div>
-
-**Note:** hopefully everything is now working well enough for early adopters to make a start writing a manifesto, although there are still likely to be some rough edges! If you find any problems, or if things don't make sense, [please open an issue](https://github.com/OpenEastleighPolitics/eastleigh-manifesto/issues/new?labels=bug).
-
 
 ## Transport
 
